@@ -20,6 +20,7 @@
 div,
 .cardcolor {
     max-width: 900px;
+    max-height: 350px; 
     border-bottom: 300px;  
     background-color: hsl(216, 50%, 16%);
     margin-left: auto;
