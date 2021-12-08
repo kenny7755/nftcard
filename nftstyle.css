@@ -31,5 +31,7 @@
 h3 {
     color: #d5d5d7;
     font-family: Arial;
+    position: relative;
+    top: 70px;
     
 }
