@@ -23,5 +23,5 @@
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
-           drop-shadow(16px 16px 10px black);
+           drop-shadow: (16px 16px 10px black);
 }
