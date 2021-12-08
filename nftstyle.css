@@ -26,6 +26,8 @@
 }
 .name {
     margin-left: 50%
-    color: white; 
     font-family: Arial;
+}
+h3 {
+    color: #d5d5d7
 }
