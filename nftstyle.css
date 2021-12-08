@@ -20,6 +20,6 @@
  #rectangle { 
     width: 200px;
   height: 100px;
-  text-align: center;
+     margin: auto;
    background: hsl(216, 50%, 16%)
 }
