@@ -18,8 +18,8 @@
 
 }
  #rectangle { 
-    width: 220px;
-  height: 300px;
+    width: 300px;
+  height: 400px;
      margin: auto;
    background: hsl(216, 50%, 16%)
 }
