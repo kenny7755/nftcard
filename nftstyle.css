@@ -25,9 +25,10 @@
            drop-shadow: (16px 16px 10px black);
 }
 .name {
-    margin-left: 50%
+    margin-left: 50%;
     font-family: Arial;
 }
 h3 {
-    color: #d5d5d7
+    color: #d5d5d7;
+    margin-left: 50%;
 }
