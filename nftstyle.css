@@ -31,7 +31,7 @@ div {
     font-family: Arial;
 }
 h3 {
-    color: #d5d5d7;
+    color: hsl(0, 0%, 100%);
     font-family: sans-serif;
     position: relative;
     top: 290px;
