@@ -3,7 +3,7 @@
     background-color:  hsl(217, 54%, 11%);
 }
 div {
-    box-shadow: 10px 5px 5px black;
+     drop-shadow: 15px 5px 3px 3px black;
 }
 #cubeimg,
 .img {
@@ -24,7 +24,6 @@ div {
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
-           drop-shadow: 15px 5px 3px 3px black; 
 }
 .name {
     margin-left: 50%;
@@ -36,5 +35,9 @@ h3 {
     position: relative;
     top: 290px;
     background-color: transparent;
+    margin-left: 7%
     
+}
+p {
+    top: 310px;
 }
