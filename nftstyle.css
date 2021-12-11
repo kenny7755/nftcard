@@ -2,9 +2,6 @@
 * {
     background-color:  hsl(217, 54%, 11%);
 }
-div {
-     drop-shadow: 15px 5px 3px 3px black;
-}
 #cubeimg,
 .img {
     object-fit: cover;
@@ -24,6 +21,7 @@ div {
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
+     drop-shadow: 15px 5px 3px 3px blac
 }
 .name {
     margin-left: 50%;
