@@ -43,7 +43,7 @@ p {
     color: grey; 
     font-size: 12px; 
     margin-left: 5%;
-    font-family: Outfit; 
+    font-family: Outfit, Arial; 
 }
 #ethimg {
 position: relative; 
