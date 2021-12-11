@@ -45,5 +45,6 @@ p {
     margin-left: 5%; 
 }
 #ethimg {
+position: relative; 
 background-color: transparent;
 }
