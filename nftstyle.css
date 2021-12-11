@@ -24,7 +24,7 @@ div {
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
-           drop-shadow: ;
+           drop-shadow: 15px 5px 3px 3px black; 
 }
 .name {
     margin-left: 50%;
