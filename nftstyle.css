@@ -42,7 +42,8 @@ p {
     background-color: transparent;
     color: grey; 
     font-size: 12px; 
-    margin-left: 5%; 
+    margin-left: 5%;
+    font-family: Outfit; 
 }
 #ethimg {
 position: relative; 
