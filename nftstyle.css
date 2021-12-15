@@ -16,11 +16,12 @@
     border-radius: 10%
 }
  #rectangle { 
-    width: 300px;
+    width: 375px;
   height: 500px;
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
+     bottom: 300px;
 }
 #rectangle2 {
 margin: auto;
