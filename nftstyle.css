@@ -52,7 +52,5 @@ background-color: transparent;
     margin-left: 5%; 
 }
 hr {
-    color: grey; 
-    position: relative;
-    top: 250px;
+border-color: grey; 
 }
