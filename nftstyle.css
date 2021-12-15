@@ -46,7 +46,6 @@ h3 {
     top: 290px;
     background-color: transparent;
     margin-left: 7%;
-    margin-right: 5%;
     
 }
 p {
@@ -55,7 +54,8 @@ p {
     background-color: transparent;
     color: grey; 
     font-size: 12px; 
-    margin-left: 5%;
+    margin-left: 5%; 
+    margin-right: 9%;
     font-family: Outfit, Arial; 
 }
 #ethimg {
