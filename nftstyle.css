@@ -21,7 +21,8 @@
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
-z-index: 2;
+     position: relative;
+     z-index: 2;
 }
 #rectangle2 {
 margin: auto;
@@ -29,9 +30,9 @@ background: #0c1729;
 width: 300px;
 height: 400px;
 position: relative;
+z-index: 1; 
 bottom: 300px;
 border-radius: 10%;
-z-index: 1; 
 }
 .name {
     margin-left: 50%;
