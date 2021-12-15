@@ -16,8 +16,8 @@
     border-radius: 10%
 }
  #rectangle { 
-    width: 1440px;
-  height: 1375px;
+    width: 400px;
+  height: 500px;
      margin: auto;
    background: hsl(216, 50%, 16%);
        border-radius: 10%;
