@@ -23,13 +23,13 @@
        border-radius: 10%;
 }
 #rectangle2 {
+margin: auto;
 background: #0c1729;
 width: 300px;
 height: 400px;
 position: relative;
 top: 20px;
 border-radius: 10%
-margin: auto;
 }
 .name {
     margin-left: 50%;
