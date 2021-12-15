@@ -53,4 +53,6 @@ background-color: transparent;
 }
 hr {
 border-color: grey; 
+position: relative;
+top: 245px; 
 }
