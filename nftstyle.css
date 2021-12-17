@@ -69,3 +69,8 @@ border-color: grey;
 position: relative;
 top: 250px;
 }
+header {
+    background-color: White;
+    height: 10%;
+    font-family: Arial;
+}
