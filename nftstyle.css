@@ -65,10 +65,9 @@ background-color: transparent;
     margin-left: 5%; 
 }
 #avatar {
+    display: block; 
     background-color: transparent;
-    height: 25%;
-    width: 25%;
-    margin-right: 5%;
+    margin-right: 15%;
   
 }
 hr {
