@@ -23,6 +23,7 @@
    background: #15273f;
        border-radius: 10%;
      position: relative;
+     top: 60px; 
      z-index: 2;
 }
 #rectangle2 {
