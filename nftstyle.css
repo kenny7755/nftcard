@@ -89,4 +89,7 @@ top: 250px;
 }
 .ethcost {
     color: cyan; 
+    font-weight: bold; 
+    position: relative; 
+    bottom: 50px; 
 }
