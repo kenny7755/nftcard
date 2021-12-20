@@ -27,15 +27,11 @@
      z-index: 2;
 }
 .img:hover {
-     animation-name: active; 
-     animation-duration: 300ms;
+    background-color: cyan; 
+    transition: 0.5s 
+    
 }
-@keyframes active {
-    100% {
-        background-color: blue;
-        opacity: 0.5;
-    }
-}
+
 #rectangle2 {
 margin: auto;
 background: #0c1729;
