@@ -87,3 +87,6 @@ border-color: grey;
 position: relative;
 top: 250px;
 }
+.ethcost {
+    color: cyan; 
+}
