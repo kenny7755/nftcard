@@ -89,7 +89,6 @@ top: 250px;
 }
 .ethcost {
     position: relative; 
-    top: 50px; 
     color: cyan; 
     font-weight: bold; 
     z-index: 2; 
