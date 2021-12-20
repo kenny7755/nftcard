@@ -3,9 +3,7 @@
     background-color:  hsl(217, 54%, 11%);
 }
 #cubeimg,
-.img {
-    background-color: transparent;
-    transition: background-color 0.3s;
+.img { 
     object-fit: cover;
     display: block;
     text-align: center;
@@ -16,8 +14,16 @@
     top: 360px;
     width: 250px;
     border-color: transparent;
-    border-radius: 10%
-        
+    border-radius: 10%     
+}
+img:hover {
+    animation-duratiom: 500ms;
+    animation-iteration-count: infinite; 
+}
+@keyframes active {
+  100% {
+      transform: scale(1.5); 
+    }
 }
  #rectangle { 
     width: 275px;
@@ -28,10 +34,6 @@
      position: relative;
      top: 60px; 
      z-index: 2;
-}
-#cubeimg:hover, .img:hover {
-    background-color: cyan;  
-    
 }
 
 #rectangle2 {
