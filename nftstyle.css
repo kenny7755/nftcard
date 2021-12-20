@@ -85,11 +85,10 @@ background-color: transparent;
 hr {
 border-color: grey; 
 position: relative;
-top: 250px;
+top: 240px;
 }
 .ethcost {
     position: relative; 
-    top: 25px; 
     color: cyan; 
     font-weight: bold; 
     z-index: 2; 
