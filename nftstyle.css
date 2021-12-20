@@ -17,7 +17,8 @@
     border-radius: 10%     
 }
 img:hover {
-    animation-duratiom: 500ms;
+    animation-name: active;
+    animation-duration: 500ms;
     animation-iteration-count: infinite; 
 }
 @keyframes active {
