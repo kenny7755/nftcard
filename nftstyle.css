@@ -73,7 +73,7 @@ background-color: transparent;
 }
 #avatar {
     position: relative;
-    bottom: 50px; 
+   top: 50px; 
     display: block; 
     background-color: transparent;
     margin-right: 75%;
