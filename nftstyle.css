@@ -72,10 +72,12 @@ background-color: transparent;
     margin-left: 5%; 
 }
 #avatar {
+    position: relative;
+    bottom: 50px; 
     display: block; 
     background-color: transparent;
     margin-right: 75%;
-    width: 50px;
+    width: 75px;
     height: 75px;
   
 }
