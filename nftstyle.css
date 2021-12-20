@@ -21,10 +21,20 @@
   height: 575px;
      margin: auto;
    background: #15273f;
-       border-radius: 10%;
+       border-radius: 5%;
      position: relative;
      top: 60px; 
      z-index: 2;
+}
+rectangle:hover {
+     animation-name: active; 
+     animation-duration: 300ms;
+}
+@keyframes active {
+    100% {
+        color: blue;
+        opacity: 0.5;
+    }
 }
 #rectangle2 {
 margin: auto;
