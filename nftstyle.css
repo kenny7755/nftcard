@@ -26,13 +26,13 @@
      top: 60px; 
      z-index: 2;
 }
-rectangle:hover {
+.img:hover {
      animation-name: active; 
      animation-duration: 300ms;
 }
 @keyframes active {
     100% {
-        color: blue;
+        background-color: blue;
         opacity: 0.5;
     }
 }
