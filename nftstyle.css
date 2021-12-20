@@ -4,6 +4,7 @@
 }
 #cubeimg,
 .img { 
+    transition: 0.2s; 
     object-fit: cover;
     display: block;
     text-align: center;
@@ -17,14 +18,9 @@
     border-radius: 10%     
 }
 img:hover {
-    animation-name: active; 
-    animation-iteration-count: infinite; 
+  transform: scale(1.1); 
 }
-@keyframes active {
-  100% {
-      transform: scale(1.1); 
-    }
-}
+
  #rectangle { 
     width: 275px;
   height: 575px;
