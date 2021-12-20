@@ -91,6 +91,5 @@ top: 250px;
     position: relative; 
     bottom: 20px; 
     color: cyan; 
-    font-weight: bold; 
-    z-index: 2; 
+    font-weight: bold;
 }
