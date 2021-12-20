@@ -73,13 +73,13 @@ background-color: transparent;
 }
 #avatar {
     position: relative;
-   top: 90px; 
+   top: 100px; 
+    width: 75px;
+    height: 75px;
     display: block; 
     background-color: transparent;
     margin-right: 75%;
     margin-left: 5%
-    width: 75px;
-    height: 75px;
   
 }
 hr {
