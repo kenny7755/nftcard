@@ -5,6 +5,7 @@
 #cubeimg,
 .img { 
     transition: 0.2s; 
+    background-color: transparent; 
     object-fit: cover;
     display: block;
     text-align: center;
@@ -18,7 +19,7 @@
     border-radius: 10%     
 }
 img:hover {
-  transform: scale(1.1); 
+background-color: cyan; 
 }
 
  #rectangle { 
