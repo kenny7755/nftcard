@@ -92,4 +92,5 @@ top: 250px;
     top: 50px; 
     color: cyan; 
     font-weight: bold; 
+    z-index: 2; 
 }
