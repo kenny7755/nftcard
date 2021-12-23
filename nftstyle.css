@@ -87,6 +87,7 @@ border-color: grey;
 position: relative;
 top: 90px; 
 width: 20%;
+    z-index: 3; 
 }
 .ethcost {
     position: relative;  
