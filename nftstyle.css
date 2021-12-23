@@ -85,7 +85,8 @@ background-color: transparent;
 hr {
 border-color: grey; 
 position: relative;
-top: width: 20%;
+top: 90px; 
+width: 20%;
 }
 .ethcost {
     position: relative;  
