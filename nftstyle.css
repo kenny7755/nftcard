@@ -84,11 +84,11 @@ background-color: transparent;
 }
 .ethcost {
     position: relative;  
-     bottom: 100px;
+     bottom: 90px;
     color: cyan; 
     font-weight: bold;
     z-index: 3; 
-margin-left: 15%; 
+margin-left: 10%; 
 }
 hr {
 position: relative; 
