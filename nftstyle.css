@@ -84,7 +84,7 @@ background-color: transparent;
 }
 .ethcost {
     position: relative;  
-     bottom: 100px;
+     bottom: 105px;
     color: cyan; 
     font-weight: bold;
     z-index: 3; 
