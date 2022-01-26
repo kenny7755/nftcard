@@ -91,5 +91,7 @@ background-color: transparent;
 margin-left: 20%
 }
 hr {
-color: black; 
+position: relative; 
+top: 200px;
+color: grey; 
 }
